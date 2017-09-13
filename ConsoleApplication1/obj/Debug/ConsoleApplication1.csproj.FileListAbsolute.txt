@@ -1,0 +1,28 @@
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Facepunch.System.dll
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Rust.Data.dll
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\UnityEngine.dll
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\RustInterceptor.dll
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+c:\users\zippocat\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.RadarSettings.resources
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\Facepunch.System.dll
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\Rust.Data.dll
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\RustInterceptor.dll
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\bin\Debug\UnityEngine.dll
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Form1.resources
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.RadarSettings.resources
+C:\Users\Zippocat\Downloads\_rus\ConsoleApplication33_WinForm_DLL\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.GenerateResource.Cache
