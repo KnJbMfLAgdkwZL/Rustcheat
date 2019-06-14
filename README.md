@@ -5,6 +5,6 @@ For more details: https://www.unknowncheats.me/forum/rust/194778-rust-packet-int
 
 ![screen](unknown_0.png)
 
-![screen]('unknown (1).png')
+![screen](unknown_1.png)
 
-![screen]('unknown (2).png')
+![screen](unknown_2.png)
